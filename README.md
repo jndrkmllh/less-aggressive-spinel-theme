@@ -1,4 +1,4 @@
-# spinel-theme-less-aggressive README
+# LAST for Ruby - Less Aggressive Spinel Theme
 
 ## Working with Markdown
 
