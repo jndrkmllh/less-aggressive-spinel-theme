@@ -1,0 +1,22 @@
+{
+  "name": "less-aggressive-spinel-theme",
+  "displayName": "LAST for Ruby - Less Aggressive Spinel Theme",
+  "description": "This is a less aggressive version of the Spinel theme from Shopify for Ruby. Less aggressive means with lower contrast and more pastel colors.",
+  "version": "0.0.1",
+  "publisher": "jndrkmllh",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LAST",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Less Aggressive Spinel Theme-color-theme.json"
+      }
+    ]
+  }
+}
