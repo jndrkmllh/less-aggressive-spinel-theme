@@ -23,5 +23,6 @@
     "type": "git",
     "url": "https://github.com/jndrkmllh/less-aggressive-spinel-theme.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "assets/icon.png"
 }
