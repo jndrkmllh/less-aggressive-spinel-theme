@@ -53,15 +53,15 @@
       "fontStyle": "bold"
     },
     "namespace": {
-      "foreground": "#4b82e9",
+      "foreground": "#6BE181",
       "fontStyle": ""
     },
     "class": {
-      "foreground": "#4b82e9",
+      "foreground": "#6BE181",
       "fontStyle": ""
     },
     "interface": {
-      "foreground": "#4b82e9"
+      "foreground": "#6BE181"
     },
     "variable": {
       "foreground": "#c1ced2",
