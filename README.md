@@ -6,6 +6,6 @@ And because this theme is so much better than the original Spinel theme, it is y
 
 **Enjoy!**
 
-Example:
+## Example:
 
 ![Example](assets/cursor-1.png)
