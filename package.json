@@ -18,5 +18,9 @@
         "path": "./themes/Less Aggressive Spinel Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jndrkmllh/less-aggressive-spinel-theme.git"
   }
 }
