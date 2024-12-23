@@ -410,7 +410,7 @@
       "name": "diff: inserted",
       "scope": ["markup.inserted", "punctuation.definition.inserted.diff"],
       "settings": {
-        "foreground": "#3a8046"
+        "foreground": "#5AC16C"
       }
     }
 	]
